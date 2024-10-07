@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no, minimal-ui">
+  <title>Roy Gitonga</title>
+  <style>
+    /* General styles */
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+
+    .resume-wrapper {
+      max-width: 960px;
+      margin: auto;
+      background: #ffffff;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .header-content {
+      display: flex;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    .header-pic {
+      margin-right: 20px;
+    }
+
+    .header-text {
+      flex-grow: 1;
+    }
+
+    .header-text h1 {
+      margin: 0;
+      font-size: 1.8em;
+    }
+
+    .header-text h2 {
+      margin: 5px 0;
+      font-weight: 400;
+    }
+
+    .contact-info p {
+      margin: 5px 0;
+    }
+
+    /* Two-column layout */
+    .row {
+      display: flex;
+    }
+
+    .left-column {
+      flex: 60%;
+      padding-right: 20px;
+    }
+
+    .right-column {
+      flex: 40%;
+      background-color: #BEBEBE;
+      padding: 10px;
+    }
+
+    /* Content styles */
+    .content {
+      margin-top: 20px;
+    }
+
+    .content-cat {
+      font-weight: bold;
+      margin-bottom: 5px;
+      font-size: 1.2em;
+      color: #007BFF; /* Primary color for headings */
+    }
+
+    .work-item,
+    .education-item,
+    .project-item,
+    .volunteer-item {
+      margin-bottom: 15px;
+      border-bottom: 1px solid #e1e1e1;
+      padding-bottom: 10px;
+    }
+
+    .work-item h3,
+    .education-item h3,
+    .project-item h3 {
+      margin: 0;
+      color: #333; /* Darker text for job titles */
+    }
+
+    .dates {
+      font-style: italic;
+      color: gray;
+    }
+
+    .profiles-listing {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    .profiles-listing li {
+      margin: 5px 0;
+    }
+
+    /* Responsive styles */
+    @media (max-width: 768px) {
+      .row {
+        flex-direction: column; /* Stack columns on smaller screens */
+      }
+      
+      .left-column,
+      .right-column {
+        flex: 100%; /* Take full width */
+        padding-right: 0; /* Remove right padding */
+      }
+    }
+  </style>
+  </head>
+<body>
+  <div id="masthead">
+    <h1 id="siteName">Roy Gitonga</h1>
+    <div id="globalNav">
+      <a href="#">LinkedIn</a> | <a href="#">GitHub</a> | <a href="#">Website</a>
+    </div>
+  </div>
+  <!-- end masthead -->
+
+  <div id="content">
+    <h2 id="pageName">ICT Director &amp; Project Manager</h2>
+    <div class="header-content">
+      <div class="header-pic">
+        <img src="https://pbs.twimg.com/media/F5PbTgnaoAALBBd.jpg" width="200px" class="pic" alt="Roy Gitonga" />
+      </div>
+      <div class="header-text">
+        <div class="contact-info">
+          <p>Email: <a href="mailto:roygitonga@gmail.com">roygitonga@gmail.com</a></p>
+          <p>Phone: (254) 723-519805</p>
+          <p>Website: <a href="http://roygitonga.example.com" target="_blank">http://roygitonga.example.com</a></p>
+        </div>
+        <p>Experienced ICT professional with a proven track record in project management and software development. Skilled in leading cross-functional teams and delivering innovative solutions across various sectors, including banking, telecommunications, and healthcare.</p>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="left-column">
+        <!-- Work Experience -->
+        <section class="content">
+          <div class="content-cat big-text">Work Experience</div>
+          <div class="work-item">
+            <h3>ICT Director at <a href="http://zawingu.com" target="_blank">Zawingu Limited</a></h3>
+            <p class="location">Nairobi, Kenya</p>
+            <p>Overseeing the design, development, and deployment of enterprise systems. Leading a cross-functional team to ensure client satisfaction and project success.</p>
+            <ul>
+              <li>Implemented customized software solutions for diverse clients.</li>
+              <li>Spearheaded strategic initiatives to enhance service delivery.</li>
+              <li>Managed a team of 10+ ICT professionals.</li>
+            </ul>
+            <p class="dates">2023-01-01 - Present</p>
+          </div>
+          <div class="work-item">
+            <h3>Technical Advisor at <a href="http://tetratech.com" target="_blank">Tetra Tech</a></h3>
+            <p class="location">Nairobi, Kenya</p>
+            <p>Designed data frameworks and methodologies for the Regional Food Balance Sheet System.</p>
+            <ul>
+              <li>Coordinated with international teams and presented frameworks to senior officials.</li>
+              <li>Delivered capacity-building sessions for data contributors.</li>
+            </ul>
+            <p class="dates">2020-01-01 - 2023-01-01</p>
+          </div>
+          <div class="work-item">
+            <h3>ICT Director at <a href="http://aesdc.com" target="_blank">Africa Economic and Social Development Consultants</a></h3>
+            <p class="location">Nairobi, Kenya</p>
+            <p>Led ICT initiatives and developed strategies for various projects.</p>
+            <ul>
+              <li>Managed the Mombasa Port Community Charter project.</li>
+              <li>Developed ICT strategies for multiple clients.</li>
+            </ul>
+            <p class="dates">2016-01-01 - 2018-12-31</p>
+          </div>
+          <div class="work-item">
+            <h3>Consultant at <a href="http://eac.int" target="_blank">East African Community</a></h3>
+            <p class="location">Arusha, Tanzania</p>
+            <p>Managed projects under EAC and USAID frameworks.</p>
+            <ul>
+              <li>Operationalized the Regional Food Balance Sheet.</li>
+              <li>Conducted training sessions for private sector coordinators.</li>
+            </ul>
+            <p class="dates">2014-01-01 - 2016-12-31</p>
+          </div>
+          <div class="work-item">
+            <h3>Consultant at <a href="http://usaid.gov" target="_blank">USAID COMPETE/TRADE HUB</a></h3>
+            <p class="location">Nairobi, Kenya</p>
+            <p>Designed and developed key trade-related tools and systems.</p>
+            <ul>
+              <li>Developed the East African Community Trade Helpdesk.</li>
+              <li>Created the East African Community Regional Food Balance Sheet.</li>
+            </ul>
+            <p class="dates">2011-01-01 - 2014-12-31</p>
+          </div>
+          <div class="work-item">
+            <h3>IT Manager - Web Services at <a href="http://equitybank.com" target="_blank">Equity Bank</a></h3>
+            <p class="location">Nairobi, Kenya</p>
+            <p>Managed digital services and ensured optimal IT operations.</p>
+            <ul>
+              <li>Oversaw the design and maintenance of Equity Bank’s websites.</li>
+              <li>Managed digital signage implementation across over 100 branches.</li>
+            </ul>
+            <p class="dates">2007-01-01 - 2010-12-31</p>
+          </div>
+          <div class="work-item">
+            <h3>IT Manager / IT Consultant at <a href="http://coptichospital.org" target="_blank">Coptic Hospital</a></h3>
+            <p class="location">Nairobi, Kenya</p>
+            <p>Led IT operations and developed key software systems.</p>
+            <ul>
+              <li>Developed a PHP-based EMR system.</li>
+              <li>Managed IT operations including hardware maintenance.</li>
+            </ul>
+            <p class="dates">2006-01-01 - 2007-12-31</p>
+          </div>
+        </section>
+
+        <!-- Education -->
+        <section class="content">
+          <div class="content-cat big-text">Education</div>
+          <div class="education-item">
+            <h3>University of Nairobi</h3>
+            <p>Computer Science - Bachelor</p>
+            <p class="dates">2000-01-01 - 2004-12-01</p>
+            <p><strong>Courses:</strong> <span>CS101 - Introduction to Programming</span>, <span>CS202 - Data Structures and Algorithms</span>, <span>CS303 - Database Systems</span></p>
+          </div>
+          <div class="education-item">
+            <h3>Institute of Advanced Technology</h3>
+            <p>Computer Science - International Diploma</p>
+            <p class="dates">1998-01-01 - 1999-12-01</p>
+          </div>
+        </section>
+
+        <!-- Projects -->
+        <section class="content">
+          <div class="content-cat big-text">Projects</div>
+          <div class="project-item">
+            <h3>Mombasa Port Charter - ICT Roadmap</h3>
+            <p>Developing a design roadmap for a platform to enhance connectivity and efficiency in African ports.</p>
+            <p class="dates">2018-01-01 - 2019-12-31</p>
+            <ul>
+              <li>Projected to improve operational efficiency by 30%.</li>
+              <li>Collaborated with multiple stakeholders across the region.</li>
+            </ul>
+          </div>
+          <div class="project-item">
+            <h3>Regional Food Balance Sheet System</h3>
+            <p>Designed and developed a comprehensive framework for food security monitoring.</p>
+            <p class="dates">2020-01-01 - 2023-01-01</p>
+            <ul>
+              <li>Integrated data from multiple sources for analysis.</li>
+              <li>Presented findings to COMESA officials.</li>
+            </ul>
+          </div>
+          <div class="project-item">
+            <h3>GAIN HEALTH / THE GRASS COMPANY</h3>
+            <p>Implemented an E-Learning system for SME Training Toolkit.</p>
+            <p class="dates">2020-01-01 - 2020-12-31</p>
+            <ul>
+              <li>Enhanced learning accessibility for SMEs.</li>
+              <li>Streamlined training modules for better user experience.</li>
+            </ul>
+          </div>
+          <div class="project-item">
+            <h3>ICRAF Research Method Portal</h3>
+            <p>Led the development of a user-friendly research method portal.</p>
+            <p class="dates">2013-01-01 - 2013-12-31</p>
+            <ul>
+              <li>Improved research accessibility for users.</li>
+              <li>Integrated various research methodologies into one platform.</li>
+            </ul>
+          </div>
+          <div class="project-item">
+            <h3>ACTESA/COMESA Regional Food Balance Sheet</h3>
+            <p>Designed and developed a comprehensive working system.</p>
+            <p class="dates">2014-01-01 - 2014-12-31</p>
+            <ul>
+              <li>Facilitated food security monitoring across the region.</li>
+              <li>Provided real-time data integration from multiple sources.</li>
+            </ul>
+          </div>
+        </section>
+
+        <!-- Skills -->
+        <section class="content">
+          <div class="content-cat big-text">Skills</div>
+          <div class="content-text">
+            <p>
+              <strong>Project Management</strong> (Expert):
+               Agile, Scrum, Waterfall, Prince II Certified
+            </p>
+            <p>
+              <strong>Software Development</strong> (Advanced):
+               PHP, CodeIgniter, MySQL, JavaScript, Python, Node.js
+            </p>
+            <p>
+              <strong>ICT Strategy</strong> (Expert):
+               IT Management, System Architecture, Business Process Mapping, Artificial Intelligence, Cloud Solutions
+            </p>
+          </div>
+        </section>
+
+      </div> <!-- End of left-column -->
+
+      <div class="right-column">
+        <!-- Languages -->
+        <section class="content">
+          <div class="content-cat">Languages</div>
+          <div class="content-text">
+            <p>English - Native speaker</p>
+            <p>Swahili - Fluent</p>
+          </div>
+        </section>
+
+        <!-- Interests -->
+        <section class="content">
+          <div class="content-cat">Interests</div>
+          <div class="content-text">
+            <p><strong>Hobbies:</strong> Classical Guitar, Travel, Navara 4x4 Club, Overland Adventures</p>
+          </div>
+        </section>
+
+        <!-- Awards -->
+        <section class="content">
+          <div class="content-cat">Awards</div>
+          <div class="content-text">
+            <p><strong>Best Manager 2006</strong> (2006-11-01) - Recognized for outstanding leadership and contribution to Team Leadership.</p>
+          </div>
+        </section>
+
+        <!-- Volunteer -->
+        <section class="content">
+          <div class="content-cat">Volunteer Experience</div>
+          <div class="volunteer-item">
+            <h3>Camp Counselor at Word of Life Camp</h3>
+            <p class="dates">1996-01-01 - 2004-12-31</p>
+            <p>Led and facilitated youth camp activities, focusing on character building, leadership development, and outdoor activities.</p>
+          </div>
+        </section>
+
+        <!-- Profiles -->
+        <section class="content">
+          <div class="content-cat">Profiles</div>
+          <div class="content-text profiles-listing">
+            <ul>
+              <li><a href="https://linkedin.com/in/roygitonga" target="_blank">LinkedIn: roygitonga</a></li>
+              <li><a href="https://github.com/roygitonga" target="_blank">GitHub: roygitonga</a></li>
+              <li><a href="https://facebook.com/roygitonga" target="_blank">Facebook: roy.gitonga</a></li>
+              <li><a href="https://twitter.com/roygitonga" target="_blank">Twitter: roygitonga</a></li>
+            </ul>
+          </div>
+        </section>
+      </div> <!-- End of right-column -->
+    </div> <!-- End of row -->
+  </div> <!-- End of content -->
+  
+  <div id="siteInfo">
+    <p>&copy;  Company Name. All Rights Reserved.</p>
+  </div>
+</body>
+</html>
