@@ -1,0 +1,25 @@
+{
+  "name": "jsonresume-theme-webfundi",
+  "version": "0.5.0",
+  "description": "A theme for JSON Resume",
+  "author": "Roy Gitonga",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roygitonga/jsonresume-theme-webfundi"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^4.5.3"
+  },
+  "homepage": "https://github.com/roygitonga/jsonresume-theme-webfundi",
+  "main": "index.js",
+  "scripts": {
+    "start": "resume serve"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "jsonresume",
+    "json",
+    "resume"
+  ]
+}

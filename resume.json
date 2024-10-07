@@ -1,0 +1,365 @@
+{
+  "basics": {
+    "name": "Roy Gitonga",
+    "label": "ICT Director & Project Manager",
+    "picture": "https://pbs.twimg.com/media/F5PbTgnaoAALBBd.jpg",
+    "email": "roygitonga@gmail.com",
+    "phone": "(254) 723-519805",
+    "url": "http://roygitonga.example.com",
+    "summary": "Experienced ICT professional with a proven track record in project management and software development. Skilled in leading cross-functional teams and delivering innovative solutions across various sectors, including banking, telecommunications, and healthcare.",
+    "location": {
+      "address": "Village Market, Po Box 2366-00621",
+      "postalCode": "00621",
+      "city": "Gigiri",
+      "countryCode": "KE",
+      "region": "Nairobi"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "roygitonga",
+        "url": "https://linkedin.com/in/roygitonga"
+      },
+      {
+        "network": "GitHub",
+        "username": "roygitonga",
+        "url": "https://github.com/roygitonga"
+      },
+      {
+        "network": "Facebook",
+        "username": "roy.gitonga",
+        "url": "https://facebook.com/roygitonga"
+      },
+      {
+        "network": "Twitter",
+        "username": "roygitonga",
+        "url": "https://twitter.com/roygitonga"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Zawingu Limited",
+      "location": "Nairobi, Kenya",
+      "description": "Leading ICT solutions provider specializing in software development and project management.",
+      "position": "ICT Director",
+      "url": "http://zawingu.com",
+      "startDate": "2023-01-01",
+      "endDate": "Present",
+      "summary": "Overseeing the design, development, and deployment of enterprise systems. Leading a cross-functional team to ensure client satisfaction and project success.",
+      "highlights": [
+        "Implemented customized software solutions for diverse clients.",
+        "Spearheaded strategic initiatives to enhance service delivery.",
+        "Managed a team of 10+ ICT professionals."
+      ]
+    },
+    {
+      "name": "Tetra Tech",
+      "location": "Nairobi, Kenya",
+      "description": "International consulting firm focusing on engineering and technology.",
+      "position": "Technical Advisor",
+      "url": "http://tetratech.com",
+      "startDate": "2020-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Designed data frameworks and methodologies for the Regional Food Balance Sheet System.",
+      "highlights": [
+        "Coordinated with international teams and presented frameworks to senior officials.",
+        "Delivered capacity-building sessions for data contributors."
+      ]
+    },
+    {
+      "name": "Africa Economic and Social Development Consultants",
+      "location": "Nairobi, Kenya",
+      "description": "Consulting firm specializing in economic and social development.",
+      "position": "ICT Director",
+      "url": "http://aesdc.com",
+      "startDate": "2016-01-01",
+      "endDate": "2018-12-31",
+      "summary": "Led ICT initiatives and developed strategies for various projects.",
+      "highlights": [
+        "Managed the Mombasa Port Community Charter project.",
+        "Developed ICT strategies for multiple clients."
+      ]
+    },
+    {
+      "name": "East African Community",
+      "location": "Arusha, Tanzania",
+      "description": "Intergovernmental organization promoting regional integration.",
+      "position": "Consultant",
+      "url": "http://eac.int",
+      "startDate": "2014-01-01",
+      "endDate": "2016-12-31",
+      "summary": "Managed projects under EAC and USAID frameworks.",
+      "highlights": [
+        "Operationalized the Regional Food Balance Sheet.",
+        "Conducted training sessions for private sector coordinators."
+      ]
+    },
+    {
+      "name": "USAID COMPETE/TRADE HUB",
+      "location": "Nairobi, Kenya",
+      "description": "USAID initiative promoting trade in East Africa.",
+      "position": "Consultant",
+      "url": "http://usaid.gov",
+      "startDate": "2011-01-01",
+      "endDate": "2014-12-31",
+      "summary": "Designed and developed key trade-related tools and systems.",
+      "highlights": [
+        "Developed the East African Community Trade Helpdesk.",
+        "Created the East African Community Regional Food Balance Sheet."
+      ]
+    },
+    {
+      "name": "Equity Bank",
+      "location": "Nairobi, Kenya",
+      "description": "Leading commercial bank in East Africa.",
+      "position": "IT Manager - Web Services",
+      "url": "http://equitybank.com",
+      "startDate": "2007-01-01",
+      "endDate": "2010-12-31",
+      "summary": "Managed digital services and ensured optimal IT operations.",
+      "highlights": [
+        "Oversaw the design and maintenance of Equity Bank’s websites.",
+        "Managed digital signage implementation across over 100 branches."
+      ]
+    },
+    {
+      "name": "Coptic Hospital",
+      "location": "Nairobi, Kenya",
+      "description": "Healthcare institution providing comprehensive medical services.",
+      "position": "IT Manager / IT Consultant",
+      "url": "http://coptichospital.org",
+      "startDate": "2006-01-01",
+      "endDate": "2007-12-31",
+      "summary": "Led IT operations and developed key software systems.",
+      "highlights": [
+        "Developed a PHP-based EMR system.",
+        "Managed IT operations including hardware maintenance."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Word of Life Camp",
+      "position": "Camp Counselor",
+      "url": "http://wordoflifecamp.example.com",
+      "startDate": "1996-01-01",
+      "endDate": "2004-12-31",
+      "summary": "Led and facilitated youth camp activities, focusing on character building, leadership development, and outdoor activities.",
+      "highlights": [
+        "Organized and conducted various youth programs.",
+        "Mentored young campers in personal development and teamwork."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Nairobi",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2000-01-01",
+      "endDate": "2004-12-01",
+      "gpa": "3.8",
+      "courses": [
+        "CS101 - Introduction to Programming",
+        "CS202 - Data Structures and Algorithms",
+        "CS303 - Database Systems"
+      ],
+      "activities": [
+        "Vice Chair of NUCOMSA (Nairobi University Computer Science Students Association)",
+        "Founding Editor of Wizards, the University of Nairobi Computer Science Students' Magazine"
+      ]
+    },
+    {
+      "institution": "Institute of Advanced Technology",
+      "area": "Computer Science",
+      "studyType": "International Diploma",
+      "startDate": "1998-01-01",
+      "endDate": "1999-12-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best Manager 2006",
+      "date": "2006-11-01",
+      "awarder": "Management Awards Kenya",
+      "summary": "Recognized for outstanding leadership and contribution to Team Leadership."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Project Management",
+      "level": "Expert",
+      "keywords": [
+        "Agile",
+        "Scrum",
+        "Waterfall",
+        "Prince II Certified"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "level": "Advanced",
+      "keywords": [
+        "PHP",
+        "CodeIgniter",
+        "MySQL",
+        "JavaScript",
+        "Python",
+        "Node.js"
+      ]
+    },
+    {
+      "name": "ICT Strategy",
+      "level": "Expert",
+      "keywords": [
+        "IT Management",
+        "System Architecture",
+        "Business Process Mapping",
+        "Artificial Intelligence",
+        "Cloud Solutions"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Swahili",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hobbies",
+      "keywords": [
+        "Classical Guitar",
+        "Travel",
+        "Navara 4x4 Club",
+        "Overland Adventures"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Mombasa Port Charter - ICT Roadmap",
+      "summary": "Developing a design roadmap for a platform to enhance connectivity and efficiency in African ports.",
+      "highlights": [
+        "Projected to improve operational efficiency by 30%.",
+        "Collaborated with multiple stakeholders across the region."
+      ],
+      "description": "The ICT integrations aim to streamline processes and reduce bottlenecks in port operations.",
+      "keywords": [
+        "Web Development",
+        "Project Management"
+      ],
+      "startDate": "2018-01-01",
+      "endDate": "2019-12-31",
+      "url": "http://aesdc.com",
+      "roles": [
+        "ICT Expert",
+        "Consultant"
+      ],
+      "entity": "Africa Economic and Social Development Consultants",
+      "type": "application"
+    },
+    {
+      "name": "Regional Food Balance Sheet System",
+      "summary": "Designed and developed a comprehensive framework for food security monitoring.",
+      "highlights": [
+        "Integrated data from multiple sources for analysis.",
+        "Presented findings to COMESA officials."
+      ],
+      "description": "This project focused on enhancing food security data management across East Africa.",
+      "keywords": [
+        "Data Management",
+        "Food Security"
+      ],
+      "startDate": "2020-01-01",
+      "endDate": "2023-01-01",
+      "url": "http://rfbsa.com",
+      "roles": [
+        "Technical Advisor",
+        "Data Analyst"
+      ],
+      "entity": "Tetra Tech",
+      "type": "consultancy"
+    },
+    {
+      "name": "GAIN HEALTH / THE GRASS COMPANY",
+      "summary": "Implemented an E-Learning system for SME Training Toolkit.",
+      "highlights": [
+        "Enhanced learning accessibility for SMEs.",
+        "Streamlined training modules for better user experience."
+      ],
+      "description": "This project focused on developing an E-Learning platform to support SMEs in their training and development efforts.",
+      "keywords": [
+        "E-Learning",
+        "Training",
+        "SMEs"
+      ],
+      "startDate": "2020-01-01",
+      "endDate": "2020-12-31",
+      "url": "http://luwazi.com/learn",
+      "roles": [
+        "Project Lead",
+        "Software Developer"
+      ],
+      "entity": "GAIN HEALTH",
+      "type": "application"
+    },
+    {
+      "name": "ICRAF Research Method Portal",
+      "summary": "Led the development of a user-friendly research method portal.",
+      "highlights": [
+        "Improved research accessibility for users.",
+        "Integrated various research methodologies into one platform."
+      ],
+      "description": "This project aimed at providing a comprehensive research method portal for ICRAF, enhancing user interaction with research data.",
+      "keywords": [
+        "Research",
+        "Portal Development",
+        "User Experience"
+      ],
+      "startDate": "2013-01-01",
+      "endDate": "2013-12-31",
+      "url": "http://icraf.org",
+      "roles": [
+        "Project Manager",
+        "Lead Developer"
+      ],
+      "entity": "ICRAF",
+      "type": "application"
+    },
+    {
+      "name": "ACTESA/COMESA Regional Food Balance Sheet",
+      "summary": "Designed and developed a comprehensive working system.",
+      "highlights": [
+        "Facilitated food security monitoring across the region.",
+        "Provided real-time data integration from multiple sources."
+      ],
+      "description": "This project was focused on creating a regional food balance sheet system to enhance food security efforts in East Africa.",
+      "keywords": [
+        "Food Security",
+        "Data Integration",
+        "Monitoring"
+      ],
+      "startDate": "2014-01-01",
+      "endDate": "2014-12-31",
+      "url": "http://actesa.com",
+      "roles": [
+        "Technical Consultant",
+        "System Architect"
+      ],
+      "entity": "ACTESA/COMESA",
+      "type": "consultancy"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2024-10-07T10:00:00"
+  }
+}
